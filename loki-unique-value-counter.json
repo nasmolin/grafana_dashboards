@@ -16,7 +16,7 @@
       }
     ]
   },
-  "description": "Log Viewer Dashboard for Loki (fingerprints parsed)",
+  "description": "Log Viewer Dashboard for Loki (VisitorID parsed)",
   "editable": true,
   "fiscalYearStartMonth": 0,
   "gnetId": 13639,
@@ -105,7 +105,7 @@
           "refId": "A"
         }
       ],
-      "title": "Summary of fingerprint log strings",
+      "title": "Summary of VisitorID log strings",
       "type": "stat"
     },
     {
@@ -168,7 +168,7 @@
           "refId": "A"
         }
       ],
-      "title": "Summary of unique fingerprint log strings",
+      "title": "Summary of unique VisitorID log strings",
       "type": "stat"
     },
     {
@@ -444,7 +444,7 @@
     ]
   },
   "timezone": "",
-  "title": "Logs / Fingerprints",
+  "title": "Logs / Unique VisitorID Counter",
   "uid": "ee28hgr9ic9a8e",
   "version": 33,
   "weekStart": ""
