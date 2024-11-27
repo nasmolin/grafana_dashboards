@@ -11,7 +11,7 @@ dashboardProviders:
       disableDeletion: true
       editable: true
       options:
-        path: /var/lib/grafana/dashboards/default
+        path: /var/lib/grafana/dashboards/<provider_name>
 ```
 ```
 dashboards: 
